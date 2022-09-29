@@ -16,10 +16,10 @@ statements.
 Write a C function that prints a triangle. The number of lines in the triangle
 should be a parameter to the function. For example, if the function is called
 with the value 4 as an argument, the following triangle should be printed:
-*
-**
-***
-****
+/ *
+/ **
+/ ***
+/ ****
 The C function should have the following signature:
 void myTriangles(int numlines);
 To solve this problem, you need to read up on how to express loops and how to
